@@ -1,0 +1,11 @@
+{
+  "name": "Spirit Box",
+  "description": "A paranormal investigation tool that scans frequencies and captures cryptic messages from the beyond using AI.",
+  "requestFramePermissions": [
+    "microphone",
+    "camera"
+  ],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
